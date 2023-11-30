@@ -1,4 +1,4 @@
-# AInterviewer: GPTs-Powered Job Interview Simulator
+# AInterviewer👾: GPTs-Powered Job Interview Simulator
 
 ![AInterviewer avatar](AInterviewer+.png)
 
