@@ -1,12 +1,10 @@
 # AInterviewer: GPTs-Powered Job Interview Simulator
 
-<p float="left">
-  <img src="AInterviewer+.png" width="400" />
-</p>
+![AInterviewer avatar](AInterviewer+.png)
 
 ## Overview
 
-[AInterviewer](https://chat.openai.com/g/g-o2piP6cRT-ainterviewer) conducts tailored job interview experience — technical or behavioral — for various job roles, competence levels, or specific job positions. 
+[AInterviewer](https://chat.openai.com/g/g-o2piP6cRT-ainterviewer) conducts tailored job interviews — technical or behavioral — for various roles, competence levels, or specific job positions. 
 
 The aim is to provide a platform for effective interview preparation, especially for those transitioning into new roles or industries. It's designed to offer a customizable interview experience, allowing users to identify their weaknesses and improve their skills. 
 
